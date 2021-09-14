@@ -6,10 +6,9 @@ import Cardhover from './components/Cardhover/Cardhover';
 
 function App() {
   return (
-    <div className="App">
-    <h1>hello card hover effect</h1>
+    
     <Cardhover/>
-    </div>
+  
   );
 }
 
