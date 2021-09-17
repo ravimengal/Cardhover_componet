@@ -1,38 +1,38 @@
 import React from 'react'
-import './Cardhover.css'
+import './Allscreencard.css'
 
-const Cardhover = () => {
+const Allscreencard1 = () => {
     return (
         <div>
-            <div className="cardDisplay">
-        <div className="card">
+            <div className="cardDisplay1">
+        <div className="card1">
         <h3>Ionic Native</h3>
         <p>A curated set of   ES5/ES6/TypeScript wrappers for plugins to easily add any native functionality to your Ionic apps.</p>
       </div>
-      <div className="card">
+      <div className="card1">
         <h3>Ionic Native</h3>
         <p>A curated set of   ES5/ES6/TypeScript wrappers for plugins to easily add any native functionality to your Ionic apps.</p>
       </div>
-      <div className="card">
+      <div className="card1">
         <h3>Ionic Native</h3>
         <p>A curated set of   ES5/ES6/TypeScript wrappers for plugins to easily add any native functionality to your Ionic apps.</p>
       </div>
-      <div className="card">
-        <h3>Ionic Native</h3>
-        <p>A curated set of   ES5/ES6/TypeScript wrappers for plugins to easily add any native functionality to your Ionic apps.</p>
-        
-      </div>
-      <div className="card">
+      <div className="card1">
         <h3>Ionic Native</h3>
         <p>A curated set of   ES5/ES6/TypeScript wrappers for plugins to easily add any native functionality to your Ionic apps.</p>
         
       </div>
-      <div className="card">
+      <div className="card1">
         <h3>Ionic Native</h3>
         <p>A curated set of   ES5/ES6/TypeScript wrappers for plugins to easily add any native functionality to your Ionic apps.</p>
         
       </div>
-      <div className="card">
+      <div className="card1">
+        <h3>Ionic Native</h3>
+        <p>A curated set of   ES5/ES6/TypeScript wrappers for plugins to easily add any native functionality to your Ionic apps.</p>
+        
+      </div>
+      <div className="card1">
         <h3>Ionic Native</h3>
         <p>A curated set of   ES5/ES6/TypeScript wrappers for plugins to easily add any native functionality to your Ionic apps.</p>
         
@@ -42,8 +42,7 @@ const Cardhover = () => {
    
     </div>
   
-     
     )
 }
 
-export default Cardhover
+export default Allscreencard1
